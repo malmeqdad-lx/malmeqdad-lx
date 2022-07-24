@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed @malmeqdad-lx
-- 👀 I’m interested in linguistics, discourse analysis, and Arabic NLP
+- 👀 I’m interested in linguistics, chatbots, and NLP/NLU
 - 🌱 I’m currently learning foundations of NLP and Python
 - 💞️ I’m looking to collaborate on analyzing language on social media
 - 📫 How to reach me: me.meqdad@gmail.com
